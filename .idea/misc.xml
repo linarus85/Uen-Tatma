@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/drawable/chevron_down.xml" value="0.1" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/drawable/form.xml" value="0.1" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/drawable/ic_done.xml" value="0.1" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/drawable/spinner_background.xml" value="0.1" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_about.xml" value="0.4" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_base.xml" value="0.264" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_box.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_box_selection.xml" value="0.2453125" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/activity_options.xml" value="0.2453125" />
+        <entry key="..\:/Users/linar/AndroidStudioProjects/GuessingGame/app/src/main/res/layout/item_box.xml" value="0.264" />
+        <entry key="..\:/Users/linar/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Тартма</string>
+    <string name="open_box">Тартманы ачырга</string>
+    <string name="options">көйләүләр</string>
+    <string name="exit">Уеннан чыгу</string>
+    <string name="about">About</string>
+    <string name="about_the_application">About the Application</string>
+    <string name="application_name">Application Name:</string>
+    <string name="version_name">Version Name:</string>
+    <string name="version_code">Version Code:</string>
+    <string name="box">Тартма</string>
+    <string name="select_box">Сайла</string>
+    <string name="select_boxes_number">Сайла тарма номерын:</string>
+    <string name="confirm">Confirm</string>
+    <string name="enable_timer">Таймерны кушуr</string>
+    <string name="cancel">Баш тарту</string>
+    <string name="please_select_a_box">Зинһар, тартма сайлагыз</string>
+    <string name="box_title">Тартма #%1$d</string>
+    <string name="empty_box">Бу тартма буш. Бүтәнне сайлап карагыз.</string>
+    <string name="to_main_menu">тагын уйнарга телим</string>
+    <string name="timer_value">Вакыт: %1$d sec.</string>
+    <string name="the_end">тәмам</string>
+    <string name="timer_end_message">Ой, вакыт җитми, соңрак кабатлап карагыз.</string>
+    <string name="done">Done</string>
+    <string name="congratulations">булдырасың</string>
+    <string name="done_icon">Done icon</string>
+    <plurals name="boxes">
+        <item quantity="zero">%1$d тармалар</item>
+        <item quantity="one">%1$d тарма</item>
+        <item quantity="two">%1$d тармалар</item>
+        <item quantity="few">%1$d тармалар</item>
+        <item quantity="many">%1$d тармалар</item>
+        <item quantity="other">%1$d тармалар</item>
+    </plurals>
+</resources>
